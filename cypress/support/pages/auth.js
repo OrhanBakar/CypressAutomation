@@ -1,3 +1,4 @@
+// eslint-disable-next-line max-classes-per-file
 class Auth {
   // difference than java, class name does not have to be same with file name
   // you can put more than one class in a file, and none of them have any superiority over each other.
